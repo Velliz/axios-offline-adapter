@@ -1,5 +1,5 @@
 {
-  "name": "axios-offline-adapter",
+  "name": "@velliz/axios-offline-adapter",
   "version": "0.0.2",
   "description": "offline adapter for axios",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ali322/axios-offline-adapter.git"
+    "url": "git+ssh://git@github.com/velliz/axios-offline-adapter.git"
   },
   "author": "alichen",
   "license": "MIT",
@@ -29,5 +29,12 @@
   "dependencies": {
     "js-base64": "^2.4.5",
     "localforage": "^1.7.1"
+  },
+  "bugs": {
+    "url": "https://github.com/ali322/axios-offline-adapter/issues"
+  },
+  "homepage": "https://github.com/ali322/axios-offline-adapter#readme",
+  "directories": {
+    "lib": "lib"
   }
 }
