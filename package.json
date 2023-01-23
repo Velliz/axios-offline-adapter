@@ -1,6 +1,6 @@
 {
   "name": "@velliz/axios-offline-adapter",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "offline adapter for axios",
   "main": "lib/index.js",
   "type": "module",
@@ -32,9 +32,9 @@
     "localforage": "^1.7.1"
   },
   "bugs": {
-    "url": "https://github.com/ali322/axios-offline-adapter/issues"
+    "url": "https://github.com/velliz/axios-offline-adapter/issues"
   },
-  "homepage": "https://github.com/ali322/axios-offline-adapter#readme",
+  "homepage": "https://github.com/velliz/axios-offline-adapter#readme",
   "directories": {
     "lib": "lib"
   }
